@@ -1,0 +1,192 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.bg-img {
+    background-image: url(img/banner1.jpg);
+    margin-left: 0;
+    padding-left: 0;
+    filter: brightness(75%);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.middle-left {
+    padding-top: 20%;
+    padding-left: 5%;
+    color: white;
+}
+
+.carsection {
+    padding-top: 5em;
+}
+
+.carsection h4, p {
+    padding-top: 2em;
+}
+
+.fasection h2 {
+    color: white;
+    padding-top: 1em;
+}
+
+.fasection {
+    background-color: rgb(19, 109, 211);
+    text-align: center;
+}
+
+.fasection i {
+    color: rgb(19, 109, 211);
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px rgb(255, 255, 255);
+    padding: 0.5em 0.6em;
+    background-color: white;
+}
+
+.fasection p {
+    color: white;
+    padding-bottom: 3em;
+}
+
+.fasection h4 {
+    color: white;
+    padding-top: 1em;
+}
+
+.textcenter {
+    text-align: center;
+    padding-top: 3em;
+}
+
+.textcenter p {
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+
+.gridsection {
+    padding-bottom: 3em;
+    text-align: center;
+}
+
+.gridsection i {
+    color: rgb(19, 109, 211);
+    float: left;
+}
+
+.gridsection h5 {
+    float: left;
+    display: block;
+}
+
+.cardimg p {
+    float: left;
+    text-align: left;
+    padding-bottom: 1em;
+}
+
+.bg-img2 {
+    background-image: url(img/slider3.jpg);
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    filter: brightness(50%);
+    background-size: cover;
+    height: 80vh;
+    position: relative;
+}
+
+.textcenter2 {
+    text-align: center;
+    padding-top: 2em;
+}
+
+.textcenter2 h1 {
+    text-align: center;
+    padding-top: 1em;
+}
+
+.textcenter2 p {
+    padding-top: 1em;
+    padding-bottom: 2em;
+    color: grey;
+}
+
+.imgsection {
+    text-align: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 65vh;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.footer-middle {
+    background-color: black;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.footer-middle h4 {
+    color: white;
+}
+
+.map-container-2 {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container-2 iframe {
+    left: 0;
+    top: 0;
+    height: 50%;
+    width: 100%;
+    position: absolute;
+}
+
+/* Style all font awesome icons */
+
+.social {
+    padding: 10px;
+    font-size: 12px;
+    width: 3em;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: rgb(179, 44, 44);
+    color: white;
+}
+
+.fa-linkedin {
+    background: #567fda;
+    color: white;
+}
+
+.bottomtext{
+    text-align: center;
+}‚
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
